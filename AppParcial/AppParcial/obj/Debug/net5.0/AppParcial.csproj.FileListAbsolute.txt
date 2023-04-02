@@ -1,0 +1,16 @@
+E:\Juanjose\Parcial2\AppParcial\AppParcial\obj\Debug\net5.0\AppParcial.csproj.AssemblyReference.cache
+E:\Juanjose\Parcial2\AppParcial\AppParcial\obj\Debug\net5.0\AppParcial.GeneratedMSBuildEditorConfig.editorconfig
+E:\Juanjose\Parcial2\AppParcial\AppParcial\obj\Debug\net5.0\AppParcial.AssemblyInfoInputs.cache
+E:\Juanjose\Parcial2\AppParcial\AppParcial\obj\Debug\net5.0\AppParcial.AssemblyInfo.cs
+E:\Juanjose\Parcial2\AppParcial\AppParcial\obj\Debug\net5.0\AppParcial.csproj.CoreCompileInputs.cache
+E:\Juanjose\Parcial2\AppParcial\AppParcial\bin\Debug\net5.0\AppParcial.exe
+E:\Juanjose\Parcial2\AppParcial\AppParcial\bin\Debug\net5.0\AppParcial.deps.json
+E:\Juanjose\Parcial2\AppParcial\AppParcial\bin\Debug\net5.0\AppParcial.runtimeconfig.json
+E:\Juanjose\Parcial2\AppParcial\AppParcial\bin\Debug\net5.0\AppParcial.runtimeconfig.dev.json
+E:\Juanjose\Parcial2\AppParcial\AppParcial\bin\Debug\net5.0\AppParcial.dll
+E:\Juanjose\Parcial2\AppParcial\AppParcial\bin\Debug\net5.0\ref\AppParcial.dll
+E:\Juanjose\Parcial2\AppParcial\AppParcial\bin\Debug\net5.0\AppParcial.pdb
+E:\Juanjose\Parcial2\AppParcial\AppParcial\obj\Debug\net5.0\AppParcial.dll
+E:\Juanjose\Parcial2\AppParcial\AppParcial\obj\Debug\net5.0\ref\AppParcial.dll
+E:\Juanjose\Parcial2\AppParcial\AppParcial\obj\Debug\net5.0\AppParcial.pdb
+E:\Juanjose\Parcial2\AppParcial\AppParcial\obj\Debug\net5.0\AppParcial.genruntimeconfig.cache
